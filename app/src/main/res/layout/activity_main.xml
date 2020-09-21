@@ -29,8 +29,8 @@
 
 		<ImageView
 			android:id="@+id/msw_logo"
-			android:layout_width="335dp"
-			android:layout_height="157dp"
+			android:layout_width="269dp"
+			android:layout_height="210dp"
 			android:layout_centerInParent="true"
 			android:layout_gravity="top"
 			android:contentDescription="@string/image_view"
