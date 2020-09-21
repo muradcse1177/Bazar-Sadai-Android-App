@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588827002184",
+    "firebase_url": "https://bazar-sadai.firebaseio.com",
+    "project_id": "bazar-sadai",
+    "storage_bucket": "bazar-sadai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588827002184:android:1683523693a0efe7b6df7d",
+        "android_client_info": {
+          "package_name": "com.parallax.bazarsadai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588827002184-b04a5656c39v0be6pnpks33gfgc8g9j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UU_ZeROyqEV0JBFZ3L5kcLH7HuNWEbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588827002184-b04a5656c39v0be6pnpks33gfgc8g9j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
